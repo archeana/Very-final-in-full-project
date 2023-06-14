@@ -8,7 +8,7 @@ footer{
   font-family: 'Inter', sans-serif;
   text-transform: capitalize;
 }
-.container{
+.footer-container{
   max-width: 1170px;
   margin: auto;
 }
@@ -16,7 +16,7 @@ footer{
   background: #a4cbda;
   padding: 70px 0;
 }
-.row{
+.footer-row{
   display: flex;
   flex-wrap: wrap;
 }
