@@ -58,7 +58,7 @@ footer{
   padding-left: 6px;
   box-shadow: inset 250px 0 0 0 #204352;
 }
-.footer-col .social-link a {
+.footer-col .social-link a{
   display: inline-block;
   height: 40px;
   width: 40px;
@@ -70,17 +70,17 @@ footer{
   color: #ffff;
   transition: all .5s ease;
 }
-.footer-col .social-link a:hover {
+.footer-col .social-link a:hover{
   background: #ffff;
 }
-@media (max-width: 767px) {
+@media (max-width: 767px){
   .footer-col{
     width: 50%;
     margin-bottom: 30px;
   }
 }
 
-@media (max-width: 567px) {
+@media (max-width: 567px){
   .footer-col{
     width: 100%;
   }
@@ -94,7 +94,7 @@ footer{
   text-align: center;
 }
 
-.footer-bottom p {
+.footer-bottom p{
   font-size: 14px;
   color: #204352;
   font-family: inherit, sans-serif;
