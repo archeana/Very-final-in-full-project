@@ -14,7 +14,7 @@
 /*Navigation Code Below*/
 .navbar{
     background-color:#feeeea;
-    font-family: inherit;
+    font-family: 'Inter', sans-serif;
     padding-right: 15px;
     padding-left: 15px;
     width: 1111x;
@@ -27,6 +27,7 @@
     display: flex;
     align-items: center;
     justify-content: space-between;
+    font-family: "inter",sans-serif;
 }
 
 .toggle_btn {
